@@ -18,3 +18,5 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 <p align="center" class="title2">艾跃进同志永垂不朽！！！</p>
 
 <hr class="index-hr" />
+
+<script>document.getElementsByTagName("title")[0].innerText = '新火报';</script>
