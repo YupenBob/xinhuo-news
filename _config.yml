@@ -105,3 +105,10 @@ deploy:
   type: git
   repo: git@github.com:YupenBob/xinhuo-news.git
   branch: main
+  
+search:
+  path: search.json 
+  field: post
+  format: html
+  content: true
+  limit: 1000
