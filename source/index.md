@@ -17,9 +17,9 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <hr class="index-hr" />
 
-<p  align="center" style="font-weight: bold;font-size:20px;">无产阶级革命可不是空话，<br>光流血是取得不了胜利的！！！</p>
+<p  align="center" style="font-weight: bold;font-size:20px;">无产阶级革命可不是空话，光流血是取得不了胜利的！！！</p>
 
-<p  align="center" style="font-weight: bold;font-size: 20px;">伟大的萨布林想学习共产主义，<br>新火报必不可少，<br>通俗易懂的语言，<br>陈述伟大的真理！</p>
+<p  align="center" style="font-weight: bold;font-size: 20px;">想学习共产主义，新火报必不可少，<br>通俗易懂的语言，陈述伟大的真理！</p>
 
 <hr class="index-hr" />
 <video id="index-video" src="https://file.yupenbob.ml/img/202302092228632.mp4" controls="controls"  width="100%"></video>
