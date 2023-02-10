@@ -17,9 +17,9 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <hr class="index-hr" />
 
-<p  align="center" style="font-weight: bold;font-size:20px;">无产阶级革命可不是空话，光流血是取得不了胜利的！！！</p>
+<p style=" margin: 0;font-weight: bold;font-size:18px;">&nbsp;&nbsp;&nbsp;&nbsp;不要问篝火该不该燃烧，先问寒冷黑暗还在不在；不要问子弹该不该上膛，先问压迫剥削还在不在；不要问正义事业有没有明天，先问人间不平今天还在不在。</p>
 
-<p  align="center" style="font-weight: bold;font-size: 20px;">想学习共产主义，新火报必不可少，<br>通俗易懂的语言，陈述伟大的真理！</p>
+<p align="right"  style="font-weight: bold;font-size: 18px; ma">——切·格瓦拉</p>
 
 <hr class="index-hr" />
 <video id="index-video" src="https://file.yupenbob.ml/img/202302092228632.mp4" controls="controls"  width="100%"></video>
