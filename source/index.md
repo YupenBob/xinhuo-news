@@ -22,7 +22,9 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 <p align="right"  style="font-weight: bold;font-size: 18px; ma">——切·格瓦拉</p>
 
 <hr class="index-hr" />
+
 ![](https://file.yupenbob.ml/img/202302101814550.jpg)
+
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;"且看星星之火，燃成熊熊烈焰！</p>
 
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">伟大的萨布林同志永垂不朽！<br>
