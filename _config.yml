@@ -6,7 +6,7 @@
 title: '新火报'
 subtitle: '全世界无产者联合起来'
 description: '一个由列宁主义者们创办的刊物，用来宣传共产主义思想，如果想加入我们请联系微信：cccp1917uusr，如果想投稿，投稿邮箱为3108986476@qq.com'
-keywords:
+keywords:马克思主义,列宁主义,共产主义,马列,马克思列宁主义,无产阶级
 author: 新火报
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -112,3 +112,6 @@ search:
   format: html
   content: true
   limit: 1000
+  
+sitemap:
+  path: sitemap.xml
