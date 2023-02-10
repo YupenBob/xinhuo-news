@@ -22,10 +22,8 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 <p align="right"  style="font-weight: bold;font-size: 18px; ma">——切·格瓦拉</p>
 
 <hr class="index-hr" />
-<video id="index-video" src="https://file.yupenbob.ml/img/202302092228632.mp4" controls="controls"  width="100%"></video>
-
-<p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">艾跃进同志永垂不朽！！！</p>
-
+![](https://file.yupenbob.ml/img/202302101814550.jpg)
+<p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;"且看星星之火，燃成熊熊烈焰！</p>
 
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">伟大的萨布林同志永垂不朽！<br>
 萨布林同志带领我们走向胜利道路！<br>
