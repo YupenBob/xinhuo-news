@@ -4,6 +4,7 @@ date: 2020-05-05 19:55:15
 type: "intro"
 ---
 <script>document.getElementsByTagName("title")[0].innerText = '新火报';</script>
+
 <p align="center" class="title1">欢迎来到 新火报 官网</p>
 <p align="center" class="title2">革命尚未成功，同志仍需努力</p>
 
@@ -25,14 +26,14 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 ![](https://file.yupenbob.ml/img/202302101814550.jpg)
 
-<p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;"且看星星之火，燃成熊熊烈焰！</p>
+<p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">且看星星之火，燃成熊熊烈焰！</p>
+
+![](https://file.yupenbob.ml/img/202302092217116.jpg)
 
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">伟大的萨布林同志永垂不朽！<br>
 萨布林同志带领我们走向胜利道路！<br>
 萨布林同志的血不会白流！</p>
 
-
-![](https://file.yupenbob.ml/img/202302092217116.jpg)
 
 
 
