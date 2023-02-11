@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff2;
+  background: #ffdbff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2914,4 +2914,95 @@ hr {
 .logo-line-after,
 .logo-line-before {
   display: none;
+}
+.brand {
+  background-color: #b22121;
+  width: 90px;
+  height: 100%;
+}
+.site-meta .brand {
+  padding: 2px 1px;
+  background-color: #b22121;
+}
+.site-title {
+  color: #fff;
+  Text-align: center;
+  width: 100%;
+}
+.popup-trigger {
+  content: ' 搜索 ';
+}
+.menu-item-app下载 {
+  background: #555;
+  border-radius: 5px;
+  margin: 0px 3px;
+}
+.menu-item-app下载:hover {
+  background: #373737;
+  border-radius: 5px;
+}
+.menu-item-app下载 a:hover {
+  background: #373737 !important;
+  border-radius: 5px;
+}
+.menu-item-app下载 a {
+  color: #fff;
+  border-radius: 5px;
+}
+site-meta:before {
+  content: '';
+  display: block;
+  margin-top: 40rpx;
+  margin-right: 20rpx;
+  width: 40rpx;
+  height: 40rpx;
+  background-image: url("https://file.yupenbob.ml/img/202302081919429.jpg");
+  background-size: 100% 100%;
+}
+.title1 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #555;
+  margin: 0;
+}
+.title2 {
+  font-size: 15px;
+  margin: 0;
+}
+.index-hr {
+  background-image: none;
+}
+#index-video {
+  weight: 100%;
+  margin-top: 30px;
+}
+.gallery-group-img {
+  display: none !important;
+  border: none;
+  opacity: 0;
+  weight: 0px;
+  height: 0px;
+}
+.cbp_tmlabel {
+  margin-left: 0px !important;
+}
+#artitalk_main .cbp_tmtimeline>li .cbp_tmlabel:after {
+  display: none;
+  opacity: 0;
+}
+#artitalk_main .cbp_tmtimeline>li .cbp_tmlabel {
+  background: #954242 !important;
+}
+.cbp_tmtimeline>li .cbp_tmlabel {
+  background: #954242 !important;
+}
+.at_button {
+  background: #954242 !important;
+  border-radius: 5px !important;
+}
+.#operare_artitalk .c2 {
+  border-radius: 5px !important;
+}
+.posts-expand .post-tags a {
+  margin-bottom: 10px;
 }
