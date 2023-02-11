@@ -121,7 +121,7 @@ baidusitemap:
  path: baidusitemap.xml
  
 baidu_url_submit:
-    count: 100
+    count: 10
     host: https://www.xinhuo-news.top
     token: kYPVfKkDEs1QUi93
     path: baidu_urls.txt
