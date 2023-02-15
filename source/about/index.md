@@ -1,6 +1,7 @@
 ---
 title: 关于
 date: 2023-02-07 17:38:44
+comments: false
 ---
 
 {% note info simple %}
