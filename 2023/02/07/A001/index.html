@@ -389,6 +389,16 @@
 
           
             
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2023/02/07/A001/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count valine-comment-count" data-xid="/2023/02/07/A001/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
           
 
           
@@ -459,7 +469,7 @@
 <p><img src="https://file.yupenbob.ml/img/202302072231687.jpg"></p>
 <hr>
 <p>如果想加入我们，请联系微信<strong>cccp1917uusr</strong></p>
-<p>如果想投稿，将<strong>WORD</strong>文档发送到<strong><a href="mailto:&#x73;&#x75;&#x62;&#x6d;&#105;&#116;&#x40;&#x78;&#x69;&#110;&#104;&#x75;&#111;&#45;&#110;&#x65;&#x77;&#x73;&#x2e;&#116;&#111;&#112;">&#x73;&#x75;&#x62;&#x6d;&#105;&#116;&#x40;&#x78;&#x69;&#110;&#104;&#x75;&#111;&#45;&#110;&#x65;&#x77;&#x73;&#x2e;&#116;&#111;&#112;</a></strong></p>
+<p>如果想投稿，将<strong>WORD</strong>文档发送到<strong><a href="mailto:&#x73;&#x75;&#x62;&#x6d;&#105;&#x74;&#64;&#120;&#105;&#110;&#104;&#x75;&#111;&#x2d;&#110;&#101;&#x77;&#x73;&#x2e;&#116;&#x6f;&#112;">&#x73;&#x75;&#x62;&#x6d;&#105;&#x74;&#64;&#120;&#105;&#110;&#104;&#x75;&#111;&#x2d;&#110;&#101;&#x77;&#x73;&#x2e;&#116;&#x6f;&#112;</a></strong></p>
 <p><img src="https://file.yupenbob.ml/img/202302072231688.jpg"></p>
 
       
@@ -555,6 +565,9 @@
           
 
   
+    <div class="comments" id="comments">
+    </div>
+  
 
 
 
@@ -602,7 +615,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">9</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -624,7 +637,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">26</span>
+                  <span class="site-state-item-count">29</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -874,6 +887,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+  
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: true,
+        notify: false,
+        appId: 'RKHKUPVAN6212LEal2YBurVm-gzGzoHsz',
+        appKey: 'zjgoB2zbbS81LUR3V7TOmusA',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:guest,
+        pageSize:'20' || 10,
+    });
+  </script>
 
 
 
