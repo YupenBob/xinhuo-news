@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xinhuo-news.top/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/about/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/categories/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/file/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/tags/index.html</loc>
+    
+    <lastmod>2023-02-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xinhuo-news.top/2023/02/15/A007/</loc>
     
     <lastmod>2023-02-15</lastmod>
@@ -83,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.xinhuo-news.top/index.html</loc>
-    
-    <lastmod>2023-02-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xinhuo-news.top/2023/02/10/mustinfo1/</loc>
     
     <lastmod>2023-02-10</lastmod>
@@ -104,42 +140,6 @@
     <loc>https://www.xinhuo-news.top/2023/02/10/mustinfo2/</loc>
     
     <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/file/index.html</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/categories/index.html</loc>
-    
-    <lastmod>2023-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/tags/index.html</loc>
-    
-    <lastmod>2023-02-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/about/index.html</loc>
-    
-    <lastmod>2023-02-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -253,6 +253,34 @@
   </url>
   
   <url>
+    <loc>https://www.xinhuo-news.top/tags/%E4%BF%AE%E6%AD%A3%E4%B8%BB%E4%B9%89/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/tags/%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/tags/%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/tags/%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xinhuo-news.top/tags/%E8%90%A8%E5%B8%83%E6%9E%97/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,41 +323,6 @@
   </url>
   
   <url>
-    <loc>https://www.xinhuo-news.top/tags/%E5%89%A5%E5%89%8A/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/tags/%E4%BF%AE%E6%AD%A3%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/tags/%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/tags/%E8%B5%84%E4%BA%A7%E9%98%B6%E7%BA%A7/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xinhuo-news.top/tags/%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xinhuo-news.top/tags/%E8%81%94%E5%90%88%E5%9B%BD/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -338,6 +331,13 @@
   
   <url>
     <loc>https://www.xinhuo-news.top/tags/%E5%B8%82%E5%9C%BA%E7%BB%8F%E6%B5%8E/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xinhuo-news.top/tags/%E5%89%A5%E5%89%8A/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
