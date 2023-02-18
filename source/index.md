@@ -16,6 +16,12 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <video id="index-video" src="https://file.ybob.cf/video.mp4" controls="controls"  width="100%"></video>
 
+<p align="center" class="title1">关于</p>
+
+<hr class="index-hr vertical" />
+
+<p align="center" class="title1">关于</p>
+
 <hr class="index-hr" />
 
 <p style=" margin: 0;font-weight: bold;font-size:18px;">&nbsp;&nbsp;&nbsp;&nbsp;不要问篝火该不该燃烧，先问寒冷黑暗还在不在；不要问子弹该不该上膛，先问压迫剥削还在不在；不要问正义事业有没有明天，先问人间不平今天还在不在。</p>
