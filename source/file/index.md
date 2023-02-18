@@ -9,7 +9,7 @@ comments: false
 {% endnote %}
 
 
-<script type="text/javascript" src="https://unpkg.com/artitalk"></script>
+<script type="text/javascript" src="https://unpkg.com/artitalk@3.3.0/artitalk.js"></script>
 <div id="artitalk_main"></div>
 <script>
 new Artitalk({
