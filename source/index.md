@@ -16,11 +16,11 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <video id="index-video" src="https://file.ybob.cf/video.mp4" controls="controls"  width="100%"></video>
 
-<p align="center" class="title1">关于</p>
+<!--<p align="center" class="title1">关于</p>
 
 <hr class="index-hr vertical" />
 
-<p align="center" class="title1">关于</p>
+<p align="center" class="title1">关于</p> -->
 
 <hr class="index-hr" />
 
