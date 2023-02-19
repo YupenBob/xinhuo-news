@@ -16,13 +16,20 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <video id="index-video" src="https://file.ybob.cf/video.mp4" controls="controls"  width="100%"></video>
 
-<!--<p align="center" class="title1">关于</p>
 
-<hr class="index-hr vertical" />
+<br>
 
-<p align="center" class="title1">关于</p> -->
-![](https://file.yupenbob.ml/img/202302191232163.jpg)
-这是由一群来自世界各地的马克思列宁主义者创办的报刊
+---
+
+<br>
+
+
+ <p align="center" class="title1">关于</p>
+
+​	亲爱的同志们，这里是新火报，一个由坚定的列宁主义者们编写的报刊。每周二发送周刊，不定期发送共产主义学习资料，光流血打不了胜仗，理论武器也很重要 。
+
+<img src="https://file.yupenbob.ml/img/202302191232163.jpg" />
+<!--  style="display:inline !important; margin: 0; width: 300px; -->
 
 <hr class="index-hr" />
 
@@ -35,13 +42,6 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 ![](https://file.yupenbob.ml/img/202302101814550.jpg)
 
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">且看星星之火，燃成熊熊烈焰！</p>
-
-![](https://file.yupenbob.ml/img/202302092217116.jpg)
-
-<p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">伟大的萨布林同志永垂不朽！<br>
-萨布林同志带领我们走向胜利道路！<br>
-萨布林同志的血不会白流！</p>
-
 
 
 
