@@ -21,6 +21,8 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 <hr class="index-hr vertical" />
 
 <p align="center" class="title1">关于</p> -->
+![](https://file.yupenbob.ml/img/202302191232163.jpg)
+这是由一群来自世界各地的马克思列宁主义者创办的报刊
 
 <hr class="index-hr" />
 
