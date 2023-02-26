@@ -1,7 +1,7 @@
 ---
 title: 各国共产党联系方式
 date: 2023-02-10 14:51:19
-categories: 必备资料
+categories: 资料
 ---
 
 {% note info simple %}
