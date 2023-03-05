@@ -19,16 +19,41 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <br>
 
----
 
-<br>
+<div style="display: flex;">
+
+<img src="https://file.yupenbob.ml/img/202302191232163.jpg"  />
+	<div style="margin-left: 8%;width: 96%;">
+		 <p align="center" class="title1">关于</p>
+			<hr class="index-hr">
+　　亲爱的同志们，这里是新火报，一个由坚定的列宁主义者们编写的报刊。每周二发送周刊，不定期发送共产主义学习资料，光流血打不了胜仗，理论武器也很重要 。
+　　列宁说过：“只有用人类创造的全部知识财富来丰富自己的头脑，才能成为共产主义者。”，希望同志们好好学习理论，革命才能成功！
+	</div>
+</div>
+
+<a target="_blank" href="https://file.yupenbob.ml/img/202302101117487.apk" style="
+    line-height: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    border: 0;
+"><div style="
+    color: white;
+    background: #555;
+    height: 50px;
+    border-radius: 5px;
+    /* margin: 0; */
+    margin: 12px;
+    border-left: 100px;
+">
+            
+              <i class="menu-item-icon fa fa-fw fa-book" style="
+    margin-left: 13px;
+"></i> 
+            
+            不定期刊
+          </div></a>
 
 
- <p align="center" class="title1">关于</p>
-
-​	亲爱的同志们，这里是新火报，一个由坚定的列宁主义者们编写的报刊。每周二发送周刊，不定期发送共产主义学习资料，光流血打不了胜仗，理论武器也很重要 。
-
-<img src="https://file.yupenbob.ml/img/202302191232163.jpg" />
 <!--  style="display:inline !important; margin: 0; width: 300px; -->
 
 <hr class="index-hr" />
