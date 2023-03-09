@@ -62,11 +62,11 @@ counter:
 
   archive_posts:
     zero: 暂无日志。
-    one: 目前共计 1 篇日志。
-    other: "目前共计 %d 篇日志。"
+    one: 目前共计 1 篇文章。
+    other: "目前共计 %d 篇文章"
 
 state:
-  posts: 日志
+  posts: 文章
   pages: 页面
   tags: 标签
   categories: 分类
@@ -75,14 +75,14 @@ search:
   placeholder: 搜索...
 
 cheers:
-  um: 嗯..
-  ok: OK
-  nice: 好
-  good: 很好
-  great: 非常好
-  excellent: 太棒了
+  um: ''
+  ok: ''
+  nice: ''
+  good: ''
+  great: ''
+  excellent: ''
 
-keep_on: 继续努力。
+keep_on: ''
 
 symbol:
   comma: '， '
@@ -91,7 +91,7 @@ symbol:
 
 reward:
   donate: 打赏
-  wechatpay: 微信支付
+  wechatpay: 感谢您对我们的支持！
   alipay: 支付宝
   bitcoin: 比特币
 
