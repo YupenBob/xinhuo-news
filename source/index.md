@@ -22,7 +22,7 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <div style="display: flex;">
 
-<img src="https://file.yupenbob.ml/img/202302191232163.jpg"  />
+<img src="https://img.xinhuo-news.top/img/202302191232163.jpg"  />
 	<div style="margin-left: 8%;width: 96%;">
 		 <p align="center" class="title1">关于</p>
 			<hr class="index-hr">&emsp;&emsp;亲爱的同志们，这里是新火报，一个由坚定的列宁主义者们编写的报刊。每周二发送周刊，不定期发送共产主义学习资料，光流血打不了胜仗，理论武器也很重要 。<br>&emsp;&emsp;列宁说过：“只有用人类创造的全部知识财富来丰富自己的头脑，才能成为共产主义者。”，希望同志们好好学习理论，革命才能成功！
@@ -45,7 +45,7 @@ The revolution has not succeeded, Comrades still need to work hard.</p>
 
 <hr class="index-hr" />
 
-![](https://file.yupenbob.ml/img/202302101814550.jpg)
+![](https://img.xinhuo-news.top/img/202302101814550.jpg)
 
 <p  align="center" style="font-weight: bold;font-size: 20px;color: #b22121;">且看星星之火，燃成熊熊烈焰！</p>
 
